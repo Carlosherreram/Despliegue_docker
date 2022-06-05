@@ -1,5 +1,9 @@
 # Despliegue_docker
 
+Carlos Herrera
+Diego Morro
+Huberto Martín
+
 ## Para el despliegue del proyecto que realizamos se nos ha pedido que creemos una imágen de docker que contenga un tomcat con nuestro archico .war desplegado y un servidor sql que conteng nuestra base de datos.
 
 Con tal de poder crear esta imágen hemos creado un archivo Dockerfile que contiene las instrucciones para crear una imágen tomcat y poner dentro de las carpeta Webapps el archivo .war que contiene nuestro proyecto de manera que tomcat lo reconozca y realice el despliegue automáticamente.
