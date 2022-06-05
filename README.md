@@ -1,7 +1,9 @@
 # Despliegue_docker
 
 Carlos Herrera
+
 Diego Morro
+
 Huberto Martín
 
 ## Para el despliegue del proyecto que realizamos se nos ha pedido que creemos una imágen de docker que contenga un tomcat con nuestro archico .war desplegado y un servidor sql que conteng nuestra base de datos.
